@@ -1,7 +1,7 @@
 ### Hi there 👋,
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 I'm Yassin Talssis from Morocco, and I build smart systems. I really enjoy learning how things work and how to rebuild them; like operation systems, search engines, internet infrastructure, AI, and here Iam, still enjoy learning new things everyday...
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### Skills: 
 Web Scraping/Crawling, Python, Java, C/C++,K-NN/K-means, ANN/CNN/ResNet, HTML/CSS/JS, ...
