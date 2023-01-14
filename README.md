@@ -18,9 +18,9 @@ Web Scraping/Crawling, Python, Java, C/C++, K-NN/K-means, ANN/CNN/ResNet, HTML/C
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YassinTalssis)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YassinTalssis)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YassinTalssis)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YassinTalssis&show_icons=true)  
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=YassinTalssis&show_icons=true)  
  
 ![GitHub metrics](https://metrics.lecoq.io/YassinTalssis)  
 
