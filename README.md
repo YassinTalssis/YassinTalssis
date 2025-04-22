@@ -20,14 +20,3 @@ Web Scraping/Crawling, Python, Java, C/C++, K-NN/K-means, ANN/CNN/ResNet/VGG/,DL
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/YassinTalssis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yassin-talssis-0aba4221b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@talssis/)  
 
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YassinTalssis)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YassinTalssis)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=YassinTalssis&show_icons=true)  
- 
-![GitHub metrics](https://metrics.lecoq.io/YassinTalssis)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=YassinTalssis)  
-
